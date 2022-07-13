@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Playground.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Playground.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PlaygroundEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Playground">
+      <UniqueIdentifier>{C213B76F-9F8F-3438-B289-51EA7BBE86DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Playground\Playground.Build.cs">
+      <Filter>Source\Playground</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Playground\Playground.cpp">
+      <Filter>Source\Playground</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\Playground.h">
+      <Filter>Source\Playground</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\PlaygroundGameModeBase.cpp">
+      <Filter>Source\Playground</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\PlaygroundGameModeBase.h">
+      <Filter>Source\Playground</Filter>
+    </ClInclude>
+    <Filter Include="Source\Playground\Controllers">
+      <UniqueIdentifier>{675C04E7-BD10-3519-8344-1C467A680BAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Playground\Controllers\CapsuleCharacter">
+      <UniqueIdentifier>{27994D18-3486-382C-9CA5-43F520AB03CC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Playground\Controllers\CapsuleCharacter\CharacterController.cpp">
+      <Filter>Source\Playground\Controllers\CapsuleCharacter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\Controllers\CapsuleCharacter\CharacterController.h">
+      <Filter>Source\Playground\Controllers\CapsuleCharacter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\Controllers\CapsuleCharacter\CharacterPlayerController.cpp">
+      <Filter>Source\Playground\Controllers\CapsuleCharacter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\Controllers\CapsuleCharacter\CharacterPlayerController.h">
+      <Filter>Source\Playground\Controllers\CapsuleCharacter</Filter>
+    </ClInclude>
+    <Filter Include="Source\Playground\CustomComponents">
+      <UniqueIdentifier>{08191962-3FAA-361F-B210-580EEEF1E027}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Playground\CustomComponents\WallrunComponent.cpp">
+      <Filter>Source\Playground\CustomComponents</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\CustomComponents\WallrunComponent.h">
+      <Filter>Source\Playground\CustomComponents</Filter>
+    </ClInclude>
+    <Filter Include="Source\Playground\FiniteStateMachine">
+      <UniqueIdentifier>{DD189DE1-DDF7-3184-9A5C-E7C922153522}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\Statebase.cpp">
+      <Filter>Source\Playground\FiniteStateMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\Statebase.h">
+      <Filter>Source\Playground\FiniteStateMachine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\StateMachineComponent.cpp">
+      <Filter>Source\Playground\FiniteStateMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\StateMachineComponent.h">
+      <Filter>Source\Playground\FiniteStateMachine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\StateTransitions.cpp">
+      <Filter>Source\Playground\FiniteStateMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\StateTransitions.h">
+      <Filter>Source\Playground\FiniteStateMachine</Filter>
+    </ClInclude>
+    <Filter Include="Source\Playground\FiniteStateMachine\States">
+      <UniqueIdentifier>{5AC9DE27-DB53-3131-A6D2-B045DA4BE09B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\States\AirFallingState.cpp">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\States\AirFallingState.h">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\States\AirRaisingState.cpp">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\States\AirRaisingState.h">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\States\GroundLandedState.cpp">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\States\GroundLandedState.h">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\States\GroundMovingState.cpp">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\States\GroundMovingState.h">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\States\IdleState.cpp">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\States\IdleState.h">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\States\WallrunLeftState.cpp">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\States\WallrunLeftState.h">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Playground\FiniteStateMachine\States\WallrunMovingState.cpp">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\FiniteStateMachine\States\WallrunMovingState.h">
+      <Filter>Source\Playground\FiniteStateMachine\States</Filter>
+    </ClInclude>
+    <Filter Include="Source\Playground\UI">
+      <UniqueIdentifier>{B6693E14-E035-35AD-ABA5-535FCD8E9975}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Playground\UI\CustomHUD.cpp">
+      <Filter>Source\Playground\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\UI\CustomHUD.h">
+      <Filter>Source\Playground\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Playground\Utilities">
+      <UniqueIdentifier>{D980956D-C6F0-36D9-A667-2C4758E1DDFE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Playground\Utilities\CustomUtils.cpp">
+      <Filter>Source\Playground\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Playground\Utilities\CustomUtils.h">
+      <Filter>Source\Playground\Utilities</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,54 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\ivanc\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject).
+  Invalidating makefile for PlaygroundEditor (Playground.Build.cs modified)
+  Parsing headers for PlaygroundEditor
+    Running UnrealHeaderTool "C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Playground.uproject" "C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Intermediate\Build\Win64\PlaygroundEditor\Development\PlaygroundEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ivanc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for PlaygroundEditor in 2,6991171 seconds
+  Building PlaygroundEditor...
+  Using Visual Studio 2022 14.30.30711 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Playground unity file: CharacterController.cpp, CharacterPlayerController.cpp, WallrunComponent.cpp, AirFallingState.cpp, AirRaisingState.cpp, GroundLandedState.cpp, GroundMovingState.cpp, IdleState.cpp, WallrunLeftState.cpp, WallrunMovingState.cpp, Statebase.cpp, StateMachineComponent.cpp, StateTransitions.cpp, CustomHUD.cpp, CustomUtils.cpp, Playground.cpp, PlaygroundGameModeBase.cpp
+  Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+    Executing up to 4 processes, one per physical core
+    Requested 1,5 GB free memory per action, 4,6 GB available: limiting max parallel actions to 3
+  Building 36 actions with 3 processes...
+  [1/36] Compile CharacterPlayerController.gen.cpp
+  [2/36] Compile PlaygroundGameModeBase.cpp
+  [3/36] Compile IdleState.gen.cpp
+  [4/36] Compile WallrunMovingState.gen.cpp
+  [5/36] Compile Statebase.gen.cpp
+  [6/36] Compile CustomUtils.gen.cpp
+  [7/36] Compile GroundLandedState.gen.cpp
+  [8/36] Compile AirRaisingState.cpp
+  [9/36] Compile AirFallingState.cpp
+  [10/36] Compile StateMachineComponent.cpp
+  [11/36] Compile CustomHUD.cpp
+  [12/36] Compile WallrunComponent.cpp
+  [13/36] Compile Playground.cpp
+  [14/36] Compile GroundMovingState.cpp
+  [15/36] Compile GroundLandedState.cpp
+  [16/36] Compile CustomUtils.cpp
+  [17/36] Compile IdleState.cpp
+  [18/36] Compile Playground.init.gen.cpp
+  [19/36] Compile PlaygroundGameModeBase.gen.cpp
+  [20/36] Compile WallrunComponent.gen.cpp
+  [21/36] Compile CharacterController.cpp
+  [22/36] Compile StateMachineComponent.gen.cpp
+  [23/36] Compile CustomHUD.gen.cpp
+  [24/36] Compile CharacterController.gen.cpp
+  [25/36] Compile StateTransitions.cpp
+  [26/36] Compile AirRaisingState.gen.cpp
+  [27/36] Compile WallrunLeftState.cpp
+  [28/36] Compile WallrunLeftState.gen.cpp
+  [29/36] Compile GroundMovingState.gen.cpp
+  [30/36] Compile CharacterPlayerController.cpp
+  [31/36] Compile Statebase.cpp
+  [32/36] Compile AirFallingState.gen.cpp
+  [33/36] Compile WallrunMovingState.cpp
+  [34/36] Link UnrealEditor-Playground.lib
+     Creating library C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\UnrealEditor-Playground.lib and object C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\UnrealEditor-Playground.exp
+  [35/36] Link UnrealEditor-Playground.dll
+     Creating library C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\UnrealEditor-Playground.suppressed.lib and object C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Intermediate\Build\Win64\UnrealEditor\Development\Playground\UnrealEditor-Playground.suppressed.exp
+  [36/36] WriteMetadata PlaygroundEditor.target
+  Total time in Parallel executor: 28,09 seconds
+  Total execution time: 32,75 seconds
