@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\unrealeditor\\inc\\playground\\wallruncomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\playgroundeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\unrealeditor\\development\\playground\\definitions.playground.h",
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\source\\playground\\customcomponents\\wallruncomponent.h",
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\unrealeditor\\inc\\playground\\wallruncomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

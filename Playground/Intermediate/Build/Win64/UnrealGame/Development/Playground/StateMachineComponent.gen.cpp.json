@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\unrealgame\\inc\\playground\\statemachinecomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\playground\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\unrealgame\\development\\playground\\definitions.playground.h",
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\source\\playground\\finitestatemachine\\statemachinecomponent.h",
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\unrealgame\\inc\\playground\\statemachinecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

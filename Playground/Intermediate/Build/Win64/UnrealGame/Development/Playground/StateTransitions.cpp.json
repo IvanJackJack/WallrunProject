@@ -1,0 +1,22 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\source\\playground\\finitestatemachine\\statetransitions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\playground\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\unrealgame\\development\\playground\\definitions.playground.h",
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\source\\playground\\finitestatemachine\\statetransitions.h",
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\source\\playground\\utilities\\customutils.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\ivanc\\desktop\\git repos\\unreal repos\\wallrunproject\\playground\\intermediate\\build\\win64\\unrealgame\\inc\\playground\\customutils.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
