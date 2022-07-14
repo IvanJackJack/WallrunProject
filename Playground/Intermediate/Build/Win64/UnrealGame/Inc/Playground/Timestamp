@@ -2,13 +2,13 @@ C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\P
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\Controllers\CapsuleCharacter\CharacterPlayerController.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\CustomComponents\WallrunComponent.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\AirFallingState.h
-C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\AirRaisingState.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\GroundLandedState.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\GroundMovingState.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\IdleState.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\WallrunLeftState.h
-C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\WallrunMovingState.h
+C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\AirRaisingState.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\Statebase.h
+C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\States\WallrunMovingState.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\FiniteStateMachine\StateMachineComponent.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\UI\CustomHUD.h
 C:\Users\ivanc\Desktop\Git repos\Unreal Repos\WallrunProject\Playground\Source\Playground\Utilities\CustomUtils.h

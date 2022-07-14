@@ -1,11 +1,8 @@
-Playground/Binaries/Win64/Playground.pdb	2022-07-14T07:56:27.641Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.pdb	2022-05-13T12:53:31.456Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.pdb	2022-05-13T12:53:31.480Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.pdb	2022-05-13T12:53:32.099Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.pdb	2022-05-13T12:53:32.109Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.pdb	2022-05-13T12:53:32.267Z
+Playground/Binaries/Win64/Playground-Win64-Shipping.pdb	2022-07-14T08:42:53.800Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.pdb	2022-05-13T12:53:30.767Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.pdb	2022-05-13T12:53:30.856Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.pdb	2022-05-13T12:53:31.465Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.pdb	2022-05-13T12:53:32.104Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.pdb	2022-05-13T12:53:32.252Z
 Engine/Content/SlateDebug/Fonts/LastResort.tps	2022-05-13T12:57:01.138Z
 Engine/Content/SlateDebug/Fonts/LastResort.ttf	2022-05-13T12:57:01.704Z
-Engine/Extras/GPUDumpViewer/GPUDumpViewer.html	2022-06-05T11:15:18.633Z
-Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat	2022-05-13T12:59:35.204Z
-Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh	2022-05-13T12:59:35.204Z
